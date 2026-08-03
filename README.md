@@ -9,6 +9,14 @@ Small Express webhook service that accepts email payloads and forwards them to a
 - Sends an email through configured SMTP host/port.
 - Uses sensible defaults if payload fields are missing.
 
+## Docker Hub
+
+The latest version of this app is available in Docker Hub as a downloadable image: https://hub.docker.com/repository/docker/marshallgraphics/sbc-cmo-wiremock-mailer-webhook
+
+```
+marshallgraphics/sbc-cmo-wiremock-mailer-webhook:latest
+```
+
 ## Requirements
 
 - Node.js 20+ (recommended)
