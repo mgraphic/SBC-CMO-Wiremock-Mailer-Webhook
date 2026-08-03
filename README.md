@@ -11,7 +11,7 @@ Small Express webhook service that accepts email payloads and forwards them to a
 
 ## Docker Hub
 
-The latest version of this app is available in Docker Hub as a downloadable image: https://hub.docker.com/repository/docker/marshallgraphics/sbc-cmo-wiremock-mailer-webhook
+The latest version of this app is available in Docker Hub as a downloadable image: https://hub.docker.com/r/marshallgraphics/sbc-cmo-wiremock-mailer-webhook
 
 ```
 marshallgraphics/sbc-cmo-wiremock-mailer-webhook:latest
